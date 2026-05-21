@@ -1,0 +1,40 @@
+# > ForwardWidgetFilter
+# > Original Author VEUS
+# > Modified for Surge by Rinrin.
+# > Last updated 2025-08-21 22:40 (UTC+8)
+
+#danmu
+DOMAIN-SUFFIX,dandanplay.net
+#Porn Streaming Modules
+DOMAIN-KEYWORD,javday
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,xvideos-cdn.com
+DOMAIN-SUFFIX,91porn.com
+DOMAIN-KEYWORD,btc620
+DOMAIN-KEYWORD,killcovid2021
+DOMAIN-KEYWORD,cdn77
+DOMAIN-SUFFIX,jable.tv
+DOMAIN-SUFFIX,mushroomtrack.com
+DOMAIN-SUFFIX,javrate.com
+DOMAIN-SUFFIX,b-cdn.net
+#Media Metadata Sources
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,media-imdb.com
+DOMAIN-SUFFIX,tmdb.org
+#VOD Modules
+DOMAIN-SUFFIX,heimuer.tv
+DOMAIN-SUFFIX,dytt8vip.com
+DOMAIN-SUFFIX,imgzy360.com
+DOMAIN-SUFFIX,iill.top
+#Trailer Cover
+DOMAIN-SUFFIX,googlevideo.com
+#Infinite API
+DOMAIN-SUFFIX,malaysla.com
+DOMAIN-SUFFIX,biggggg.com
+DOMAIN-SUFFIX,nivod4.tv
+DOMAIN-SUFFIX,ulivetv.net
+DOMAIN-SUFFIX,efhie.com
+DOMAIN-SUFFIX,newpppp.com
+DOMAIN-SUFFIX,ceres9350.com
