@@ -1,0 +1,27 @@
+#!name=🍟 Fries: 🌐 ASN Telegram
+#!desc=按ASN分流Telegram
+#!author=VirgilClyne
+#!homepage=https://github.com/VirgilClyne/GetSomeFries/wiki/🌐-ASN
+#!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Server.png
+# https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/ruleset/ASN.Telegram.list
+
+PROCESS-NAME,org.telegram.messenger,Telegram
+HOST-SUFFIX,comments.app,Telegram  #@CommentsBot
+HOST-SUFFIX,t.me,Telegram
+HOST-SUFFIX,tx.me,Telegram
+HOST-SUFFIX,tdesktop.com,Telegram
+HOST-SUFFIX,telegra.ph,Telegram  #Telegraph
+HOST-SUFFIX,telegram.me,Telegram
+HOST-SUFFIX,telegram.org,Telegram
+HOST-SUFFIX,telegram-cdn.org,Telegram
+HOST-SUFFIX,graph.org,Telegram
+HOST-SUFFIX,legra.ph,Telegram
+HOST-SUFFIX,telesco.pe,Telegram  #Telescope
+IP-CIDR,109.239.140.0/24,no-resolve,Telegram  #Telegram Messenger LLP
+IP-CIDR,5.28.192.0/18,no-resolve,Telegram  #IPFFM - Internet Provider Frankfurt GmbH
+IP-CIDR6,2a0a:f280::/32,no-resolve,Telegram
+IP-ASN,44907,no-resolve,Telegram  #Telegram Messenger Inc
+IP-ASN,62014,no-resolve,Telegram  #Telegram Messenger Inc
+IP-ASN,62041,no-resolve,Telegram  #Telegram Messenger Inc
+IP-ASN,59930,no-resolve,Telegram  #Telegram Messenger Inc
+IP-ASN,211157,no-resolve,Telegram  #Telegram Messenger Inc
